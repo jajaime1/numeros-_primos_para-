@@ -4,7 +4,7 @@ Gabriel Abarca
 Jaime Ugaz
 
 El archivo crea un .exe mediante el siguiente comando : 
-g++ -fopenmp main.cpp -o main
+g++ -fopenmp main2.cpp -o main
 
 Luego ejecuta el .exe mediante 
 ./main 
